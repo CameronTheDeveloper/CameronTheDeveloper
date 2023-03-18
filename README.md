@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CameronTheDeveloper
 - 👀 I’m interested in Software and Web Developing
-- 🌱 I’m currently learning Full Stack Web development
-- 💞️ I’m looking to collaborate on company or personal websites
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on Company or Personal website projects
 - 📫 How to reach me: cameronposey@outlook.com OR cameronposey777@gmail.com
 
 <!---
